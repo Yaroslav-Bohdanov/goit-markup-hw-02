@@ -1,7 +1,7 @@
-.body {
+body {
+  font-family: "Roboto", sans-serif;
   color: #434455;
   background-color: #ffffff;
-  font-family: "Roboto", sans-serif;
 }
 .page-header {
   display: flex;
@@ -49,6 +49,9 @@
   color: #404bbf;
 }
 .adres {
+  font-style: normal;
+}
+.adres-page {
   display: flex;
   gap: 40px;
 }
